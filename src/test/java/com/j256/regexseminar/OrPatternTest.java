@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Use of | OR character in regular expressions.
+ * Use of '|' OR character in regular expressions.
  * 
  * @author graywatson
  */
