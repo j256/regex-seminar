@@ -1,4 +1,4 @@
-package org.aneteng.samples.regex;
+package test.java.com.j256.regexseminar;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

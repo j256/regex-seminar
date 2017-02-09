@@ -59,7 +59,7 @@
 		<junit-version>4.8.1</junit-version>
 	</properties>
 	<build>
-		<finalName>two-factor-auth</finalName>
+		<finalName>regex-seminar</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -173,9 +173,14 @@
 	</build>
 	<dependencies>
 		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.1</version>
+		</dependency>
+		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>${junit-version}</version>
+			<version>4.8.1</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
