@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Test using the backslash character: \
+ * Test using the backslash character in regular expressions: \
  * 
  * @author graywatson
  */

@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Basic regex patterns.
+ * Basic regular expressions.
  * 
  * @author graywatson
  */

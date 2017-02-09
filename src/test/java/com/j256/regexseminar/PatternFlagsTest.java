@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Some examples of using flags, curly braces {}, and | or symbol.
+ * Some examples of using flags, curly braces {}, and | or symbol in regular expressions.
  * 
  * @author graywatson
  */

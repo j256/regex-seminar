@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Prompts for a pattern and then lines to match on.
+ * Prompts for a regular expression pattern and then lines to match on.
  * 
  * @author graywatson
  */

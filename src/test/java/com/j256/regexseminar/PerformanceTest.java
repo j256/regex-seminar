@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Performance examples and warnings.
+ * Performance examples and warnings about regular expressions in Java.
  * 
  * @author graywatson
  */

@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Use of [] character class regex patterns.
+ * Use of [] character class regular expression patterns.
  * 
  * @author graywatson
  */
