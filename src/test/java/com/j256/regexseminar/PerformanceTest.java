@@ -1,4 +1,4 @@
-package test.java.com.j256.regexseminar;
+package com.j256.regexseminar;
 
 import java.util.regex.Pattern;
 
