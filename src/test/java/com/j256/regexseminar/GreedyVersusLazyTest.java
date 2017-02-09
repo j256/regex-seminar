@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Demonstration of greedy regex versus lazy regular expressions.
+ * Differences between greedy versus lazy regular expressions.
  * 
  * @author graywatson
  */

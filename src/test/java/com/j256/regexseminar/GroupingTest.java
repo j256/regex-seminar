@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Demonstration of using parens as groupings in regular expressions.
+ * Use of parentheses as groupings in regular expressions.
  * 
  * @author graywatson
  */

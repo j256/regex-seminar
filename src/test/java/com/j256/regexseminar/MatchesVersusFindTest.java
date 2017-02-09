@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 import org.junit.Test;
 
 /**
- * Showing the difference between matcher.matches() versus matcher.find() in Java's regular expression code.
+ * Differences between matcher.matches() versus matcher.find() in Java's regular expression code.
  * 
  * @author graywatson
  */
